@@ -3,6 +3,8 @@ package testProject;
 class AB{
 	int a=5,b=3,c=4;
 	static int d=5,e=6;
+	
+	int f=98, g=9;
 
 
 
